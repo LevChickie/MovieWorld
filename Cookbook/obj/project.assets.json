@@ -22487,11 +22487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MrGamble\\Downloads\\klienshazi\\MovieWorld\\Cookbook\\MovieWorld.csproj",
+      "projectUniqueName": "C:\\Users\\MrGamble\\Downloads\\klienshazi\\Git\\MovieWorld\\Cookbook\\MovieWorld.csproj",
       "projectName": "MovieWorld",
-      "projectPath": "C:\\Users\\MrGamble\\Downloads\\klienshazi\\MovieWorld\\Cookbook\\MovieWorld.csproj",
+      "projectPath": "C:\\Users\\MrGamble\\Downloads\\klienshazi\\Git\\MovieWorld\\Cookbook\\MovieWorld.csproj",
       "packagesPath": "C:\\Users\\MrGamble\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MrGamble\\Downloads\\klienshazi\\MovieWorld\\Cookbook\\obj\\",
+      "outputPath": "C:\\Users\\MrGamble\\Downloads\\klienshazi\\Git\\MovieWorld\\Cookbook\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

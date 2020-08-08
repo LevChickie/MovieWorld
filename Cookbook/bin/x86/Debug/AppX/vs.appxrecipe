@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>af718755-736a-491e-9576-94b0e2c0883e</PackageIdentityName>
     <PackageIdentityPublisher>CN=Tibi</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>6CEA4DBAB5D763783A1F0AB4D9A9AD19DB39EDE97BE80F1CDA42B58D24181A00</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>af718755-736a-491e-9576-94b0e2c0883e_1.0.0.0_x86__zwjg00b7eajd6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>af718755-736a-491e-9576-94b0e2c0883e_zwjg00b7eajd6!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-06-22T09:49:43.373</Modified>
+      <Modified>2020-08-08T11:02:03.936</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.exe">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.exe">
       <PackagePath>entrypoint\Cookbook.exe</PackagePath>
-      <Modified>2020-06-22T09:49:41.205</Modified>
+      <Modified>2020-08-08T11:01:17.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -510,91 +510,95 @@
       <PackagePath>Template10Library.dll</PackagePath>
       <Modified>2016-10-17T09:42:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Help.htm">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Help.htm">
       <PackagePath>Help.htm</PackagePath>
-      <Modified>2017-03-10T13:13:34.549</Modified>
+      <Modified>2020-08-08T09:32:12.221</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-03-10T13:13:34.518</Modified>
+      <Modified>2020-08-08T09:32:12.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-03-10T13:13:33.994</Modified>
+      <Modified>2020-08-08T09:32:12.215</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-10T13:13:33.997</Modified>
+      <Modified>2020-08-08T09:32:12.215</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-10T13:13:33.998</Modified>
+      <Modified>2020-08-08T09:32:12.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-10T13:13:33.999</Modified>
+      <Modified>2020-08-08T09:32:12.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-10T13:13:34.000</Modified>
+      <Modified>2020-08-08T09:32:12.217</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-10T13:13:34.001</Modified>
+      <Modified>2020-08-08T09:32:12.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-10T13:13:34.002</Modified>
+      <Modified>2020-08-08T09:32:12.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Services\kulcs.txt">
+      <PackagePath>Services\kulcs.txt</PackagePath>
+      <Modified>2020-08-08T10:18:28.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.xr.xml">
       <PackagePath>Cookbook.xr.xml</PackagePath>
-      <Modified>2020-05-21T20:44:43.715</Modified>
+      <Modified>2020-08-08T09:32:12.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.554</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Styles\Custom.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Styles\Custom.xbf">
       <PackagePath>Styles\Custom.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.554</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\EpisodePage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\EpisodePage.xbf">
       <PackagePath>Views\EpisodePage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.554</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.533</Modified>
+      <Modified>2020-08-08T11:02:03.245</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\MovieListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\MovieListPage.xbf">
       <PackagePath>Views\MovieListPage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.554</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\MoviePage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\MoviePage.xbf">
       <PackagePath>Views\MoviePage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.555</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\PersonPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\PersonPage.xbf">
       <PackagePath>Views\PersonPage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.544</Modified>
+      <Modified>2020-08-08T11:02:03.255</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesListPage.xbf">
       <PackagePath>Views\SeriesListPage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.555</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesPage.xbf">
       <PackagePath>Views\SeriesPage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.550</Modified>
+      <Modified>2020-08-08T11:02:03.261</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesSeasonPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesSeasonPage.xbf">
       <PackagePath>Views\SeriesSeasonPage.xbf</PackagePath>
-      <Modified>2020-05-22T08:27:36.555</Modified>
+      <Modified>2020-08-08T11:02:03.265</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -632,13 +636,13 @@
       <PackagePath>Template10Library\Themes\Resizer.xaml</PackagePath>
       <Modified>2016-10-17T09:42:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-05-21T20:44:46.246</Modified>
+      <Modified>2020-08-08T10:43:06.503</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Core\Cookbook.exe">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Core\Cookbook.exe">
       <PackagePath>Cookbook.exe</PackagePath>
-      <Modified>2020-06-22T09:49:43.363</Modified>
+      <Modified>2020-08-08T11:02:03.932</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
