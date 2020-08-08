@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>af718755-736a-491e-9576-94b0e2c0883e</PackageIdentityName>
     <PackageIdentityPublisher>CN=Tibi</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.exe">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.exe">
       <PackagePath>entrypoint\Cookbook.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -382,70 +382,73 @@
     <AppxPackagedFile Include="C:\Users\MrGamble\.nuget\packages\template10\1.1.12\lib\uap10.0\Template10Library.dll">
       <PackagePath>Template10Library.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Help.htm">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Help.htm">
       <PackagePath>Help.htm</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\Services\kulcs.txt">
+      <PackagePath>Services\kulcs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Cookbook.xr.xml">
       <PackagePath>Cookbook.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Styles\Custom.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Styles\Custom.xbf">
       <PackagePath>Styles\Custom.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\EpisodePage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\EpisodePage.xbf">
       <PackagePath>Views\EpisodePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\MovieListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\MovieListPage.xbf">
       <PackagePath>Views\MovieListPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\MoviePage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\MoviePage.xbf">
       <PackagePath>Views\MoviePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\PersonPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\PersonPage.xbf">
       <PackagePath>Views\PersonPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesListPage.xbf">
       <PackagePath>Views\SeriesListPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesPage.xbf">
       <PackagePath>Views\SeriesPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesSeasonPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Views\SeriesSeasonPage.xbf">
       <PackagePath>Views\SeriesSeasonPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
@@ -475,10 +478,10 @@
     <AppxPackagedFile Include="C:\Users\MrGamble\.nuget\packages\template10\1.1.12\lib\uap10.0\Template10Library\Themes\Resizer.xaml">
       <PackagePath>Template10Library\Themes\Resizer.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\MovieWorld\Cookbook\bin\x86\Debug\Core\Cookbook.exe">
+    <AppxPackagedFile Include="C:\Users\MrGamble\Downloads\klienshazi\Git\MovieWorld\Cookbook\bin\x86\Debug\Core\Cookbook.exe">
       <PackagePath>Cookbook.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
